@@ -9,7 +9,7 @@ type GreetingPropsType = {
     addUser: () => void // need to fix any
     error: string // need to fix any
     totalUsers: number // need to fix any
-    setError: React.Dispatch<React.SetStateAction<string>>
+    setError: (error: string) => void
 }
 
 // презентационная компонента (для верстальщика)

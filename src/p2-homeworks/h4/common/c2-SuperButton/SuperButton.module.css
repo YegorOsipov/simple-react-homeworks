@@ -1,7 +1,20 @@
 .default {
+    background-color: #b4e09d;
+    border-color: #556d4d;
+}
 
+.default:hover {
+    background-color: #8eaf79;
+}
+
+.default:disabled:hover {
+    background-color: #b4e09d;
 }
 
 .red {
-    background: red;
+    background-color: #ff6262;
+}
+
+.red:hover {
+    background-color: #f64040;
 }
