@@ -1,0 +1,8 @@
+.errorPage {
+    position: absolute;
+    top: 45%;
+    width: 100%;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
