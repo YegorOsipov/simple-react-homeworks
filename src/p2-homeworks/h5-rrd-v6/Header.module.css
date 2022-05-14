@@ -45,8 +45,8 @@
 }
 
 .item a.active {
-    text-decoration: underline;
-    font-weight: bold;
+    color: blue;
+    font-weight: 500;
 }
 
 .menuBtn {

@@ -1,14 +1,14 @@
 .default {
-    background-color: #b4e09d;
-    border-color: #556d4d;
+    background-color: #d9a7fc;
+    border-color: #9600ff;
 }
 
 .default:hover {
-    background-color: #8eaf79;
+    background-color: #bc6af8;
 }
 
 .default:disabled:hover {
-    background-color: #b4e09d;
+    background-color: #d9a7fc;
 }
 
 .red {

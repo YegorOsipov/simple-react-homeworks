@@ -21,17 +21,18 @@ function HW4() {
     const testOnChange = (e: ChangeEvent<HTMLInputElement>) => setChecked(e.currentTarget.checked)
 
     return (
-        <div>
+        <div className={s.hw4}>
             <hr/>
             homeworks 4
 
-            <div className={s.column}>
+            <div className={`${s.column} ${s.padding}`}>
                 <SuperInputText
                     value={text}
                     onChangeText={setText}
                     onEnter={showAlert}
                     error={error}
                     spanClassName={s.testSpanError}
+                    className={error ? "" : s.marginBottom}
                 />
 
                 <SuperInputText

@@ -1,0 +1,12 @@
+.spanWrapper {
+    display: flex;
+    align-items: center;
+    color: #9a02ff;
+    cursor: pointer;
+}
+
+.pencil {
+    margin: 3px 2px 0 0;
+    width: 10px;
+    height: 10px;
+}
