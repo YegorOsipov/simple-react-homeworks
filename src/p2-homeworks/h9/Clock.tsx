@@ -25,12 +25,12 @@ function Clock() {
         setShow(false)
     }
 
-    const addedZero = (num: number) => {
+    const addZero = (num: number) => {
         return num < 10 ? `0${num}` : num
     }
 
-    const stringTime = `${addedZero(date.getHours())}:${addedZero(date.getMinutes())}:${addedZero(date.getSeconds())}` // fix with date
-    const stringDate = `${addedZero(date.getDate())}.${addedZero(date.getMonth() + 1)}.${addedZero(date.getFullYear())}` // fix with date
+    const stringTime = `${addZero(date.getHours())}:${addZero(date.getMinutes())}:${addZero(date.getSeconds())}` // fix with date
+    const stringDate = `${addZero(date.getDate())}.${addZero(date.getMonth() + 1)}.${addZero(date.getFullYear())}` // fix with date
 
 
     return (
