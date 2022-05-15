@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/simple-react-homeworks/static/css/main.6c08bb96.chunk.css",
-    "main.js": "/simple-react-homeworks/static/js/main.380e08de.chunk.js",
-    "main.js.map": "/simple-react-homeworks/static/js/main.380e08de.chunk.js.map",
+    "main.css": "/simple-react-homeworks/static/css/main.a8ab2915.chunk.css",
+    "main.js": "/simple-react-homeworks/static/js/main.6494d87c.chunk.js",
+    "main.js.map": "/simple-react-homeworks/static/js/main.6494d87c.chunk.js.map",
     "runtime-main.js": "/simple-react-homeworks/static/js/runtime-main.5a451111.js",
     "runtime-main.js.map": "/simple-react-homeworks/static/js/runtime-main.5a451111.js.map",
-    "static/js/2.2b6e7bf8.chunk.js": "/simple-react-homeworks/static/js/2.2b6e7bf8.chunk.js",
-    "static/js/2.2b6e7bf8.chunk.js.map": "/simple-react-homeworks/static/js/2.2b6e7bf8.chunk.js.map",
+    "static/js/2.2f12c5bf.chunk.js": "/simple-react-homeworks/static/js/2.2f12c5bf.chunk.js",
+    "static/js/2.2f12c5bf.chunk.js.map": "/simple-react-homeworks/static/js/2.2f12c5bf.chunk.js.map",
     "index.html": "/simple-react-homeworks/index.html",
-    "precache-manifest.d5c784257e1112ec1933f4e6b2526685.js": "/simple-react-homeworks/precache-manifest.d5c784257e1112ec1933f4e6b2526685.js",
+    "precache-manifest.72f1bc00bdc529351997ffa90f3763f5.js": "/simple-react-homeworks/precache-manifest.72f1bc00bdc529351997ffa90f3763f5.js",
     "service-worker.js": "/simple-react-homeworks/service-worker.js",
-    "static/css/main.6c08bb96.chunk.css.map": "/simple-react-homeworks/static/css/main.6c08bb96.chunk.css.map",
-    "static/js/2.2b6e7bf8.chunk.js.LICENSE.txt": "/simple-react-homeworks/static/js/2.2b6e7bf8.chunk.js.LICENSE.txt"
+    "static/css/main.a8ab2915.chunk.css.map": "/simple-react-homeworks/static/css/main.a8ab2915.chunk.css.map",
+    "static/js/2.2f12c5bf.chunk.js.LICENSE.txt": "/simple-react-homeworks/static/js/2.2f12c5bf.chunk.js.LICENSE.txt",
+    "static/media/editing-pencil_icon-icons.com_55164.svg": "/simple-react-homeworks/static/media/editing-pencil_icon-icons.com_55164.a86cb4d4.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5a451111.js",
-    "static/js/2.2b6e7bf8.chunk.js",
-    "static/css/main.6c08bb96.chunk.css",
-    "static/js/main.380e08de.chunk.js"
+    "static/js/2.2f12c5bf.chunk.js",
+    "static/css/main.a8ab2915.chunk.css",
+    "static/js/main.6494d87c.chunk.js"
   ]
 }
